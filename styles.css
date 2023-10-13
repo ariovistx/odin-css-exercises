@@ -1,0 +1,21 @@
+h1.frontpage {
+  color: red;
+  background-color: black;
+  text-align: center;
+}
+a.frontpage {
+  font-size: 44px;
+}
+ul.frontpage {
+  text-align: center;
+  background-color: black;
+  font-style: oblique;
+}
+.lasagna.header {
+  background-color: silver;
+  font-style: italic;
+}
+h1.lasagna {
+  background-color: aqua;
+  font-weight: bold;
+}
