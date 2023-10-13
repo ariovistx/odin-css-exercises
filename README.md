@@ -1,0 +1,1 @@
+The current project is a The Odin Project project called "odin-recipes"
